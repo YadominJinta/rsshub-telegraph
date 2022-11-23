@@ -1,0 +1,4 @@
+node_modules/
+lastUpdate.json
+dist/
+.idea/
